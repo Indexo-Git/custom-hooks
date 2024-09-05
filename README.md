@@ -1,2 +1,2 @@
 # custom-hooks
-Small repository with custom hooks
+Simple repository with custom hooks
